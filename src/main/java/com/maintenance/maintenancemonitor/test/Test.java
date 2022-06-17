@@ -10,6 +10,6 @@ public class Test {
 
     @GetMapping("/message")
     public String message() {
-        return "Hello!";
+        return "Hello!!!";
     }
 }
